@@ -1,1 +1,44 @@
-/* -- Your Styles Here -- */
+body { background: #eee; }
+ul {
+  margin: 0;
+  padding: 0;
+}
+ul li {
+  margin: 0 0 24px 0;
+  list-style: none;
+}
+
+#sequences {
+  height: 420px;
+}
+
+#sequences img {
+  border: 1px solid rgba(0,0,0,0.1);
+  vertical-align: center;
+  max-width: 100%;
+}
+
+.tile {
+  background: white;
+  padding: 12px;
+  box-shadow: 0px 2px 4px rgba(0,0,0,0.2);
+  border-radius: 4px;
+/*   height: 350px; */
+}
+.caption {
+  margin: 12px 0 4px 0;
+  text-align: center;
+}
+.postTypeLabel { margin: 0; }
+.postTypeLabel strong { display: block; margin-bottom: 4px;}
+.postTypeLabel span { font-size: 14px; display: block; margin-bottom: 8px;}
+
+.postDisplay {
+  margin: 24px;
+  width: 300px;
+  vertical-align: top;
+/*   height: 500px; */
+  display: inline-block;
+}
+.customerName { margin-left: 24px; font-size: 64px; margin: 96px 24px 12px; }
+.customerName:first-child {margin-top: 32px;}
