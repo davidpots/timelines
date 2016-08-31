@@ -118,48 +118,48 @@ var customers = {
     "logo"  : "",
     "posts" : [
       {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmdzhFUUFIcWtSZnM"
-      },
-      {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmS29HTVdyTGtGV3M"
-      },
-      {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCma2pYWGE5cFlCMGs"
-      },
-      {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmYTl5akkzbnUxTXc"
-      },
-      {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmNE9NVFM4eUNOU3M"
-      },
-      {
-        "postType" : "Local love",
-        "caption"  : "slkdfjlskdjflskdjf",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmancwbmc5eVRCQ1U"
-      },
-      {
-        "postType" : "Testimonial",
-        "caption"  : "asdasd",
-        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmc0NRVnZiNWxwTjA"
-      },
-      {
         "postType" : "Introduction",
         "caption"  : "We've loved making #Chattanooga a sweeter place -- thanks for being so sweet back to us!",
         "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmdWF0Q3doZU1iZkk",
       },
       {
-        "postType" : "Wildcard",
-        "caption"  : "This is a test of the caption system!",
+        "postType" : "Business highlight",
+        "caption"  : "Baked fresh every day. And waiting patiently. For you.",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmNE9NVFM4eUNOU3M"
+      },
+      {
+        "postType" : "Feel good",
+        "caption"  : "Our well runs deep.",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmdzhFUUFIcWtSZnM"
+      },
+      {
+        "postType" : "Feel good",
+        "caption"  : "Truth.",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmS29HTVdyTGtGV3M"
+      },
+      {
+        "postType" : "Feel good",
+        "caption"  : "School's back in session! And now for that most important of all lessons...",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCma2pYWGE5cFlCMGs"
+      },
+      {
+        "postType" : "Feel good",
+        "caption"  : "Don't ever forget it.",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmYTl5akkzbnUxTXc"
+      },
+      {
+        "postType" : "Feel good",
+        "caption"  : "You must choose, but choose wisely...",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmancwbmc5eVRCQ1U"
+      },
+      {
+        "postType" : "Testimonial",
+        "caption"  : "We're all ears.",
+        "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmc0NRVnZiNWxwTjA"
+      },
+      {
+        "postType" : "Testimonial",
+        "caption"  : "Exactly we feel at the end of each day...",
         "image"    : "https://docs.google.com/uc?export=&id=0B_TWeTee0fCmZld5bV9MMjBuNzA"
       },
     ]
